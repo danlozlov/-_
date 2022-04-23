@@ -768,9 +768,6 @@ header {
         font-size: 16px;
         line-height: 17px;
     }
-    .insta {
-         margin-top: -5px;
-    } 
 }
 @media(max-width:600px){
     .menu1_text span{

@@ -458,7 +458,7 @@ header {
     background-position: center;
 }
 .icon6{
-    background: url(icon6.png);
+    background: url(../icon6.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -685,6 +685,7 @@ header {
     .card_text span{
         font-size: 11px;
     }
+    
     .text_title{
         font-size: 18px;
     }
@@ -692,6 +693,7 @@ header {
     .text_subtitle{
         font-size: 15px;
     }
+    
 }
 
 
